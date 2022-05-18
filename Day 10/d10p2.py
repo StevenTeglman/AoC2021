@@ -49,4 +49,4 @@ for i, l in enumerate(lines[:]):
 
 scores.sort()
 m_index = int((len(scores)-1)/2)
-print(scores[m_index+1])
+print(scores[m_index])
